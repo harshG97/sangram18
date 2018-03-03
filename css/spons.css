@@ -1,0 +1,29 @@
+.spons_img{
+    width: 30em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.image_spons{
+    width: 87%;
+    padding-left: 4em;
+}
+.sponType{
+    width: 139px;
+  height: 19px;
+ 
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #222222;
+    margin-top: 7em;
+   
+    margin-left: 3em;
+    font-weight: 600
+}
