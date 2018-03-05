@@ -99,7 +99,11 @@
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Pavit Teg Bir Singh</p>
                             <p class="post_team">Overall Coordinator</p>
                             <a href="https://www.facebook.com/Pavitteg26bir?ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
+                        <img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">
                                 </a>
 <!--                            <p class="post_team">+91 721-725-9085</p>-->
                         </div>
@@ -116,8 +120,11 @@
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Tarandeep Singh</p>
                             <p class="post_team">Overall Coordinator</p>
                                <a href="https://www.facebook.com/tarandeep.singh.54966834?ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
 <!--                            <p class="post_team"></p>-->
                         </div>
                             </center>
@@ -133,7 +140,11 @@
                             <p class="name_team_faculty" style="padding-top: 1.3em;">Mayank Gupta</p>
                             <p class="post_team">Overall Coordinator</p>
                                <a href="https://www.facebook.com/profile.php?id=100005459568178" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
+                        <img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">
                                 </a>
 <!--                            <p class="post_team"></p>-->
                         </div>
@@ -154,8 +165,11 @@
                             <p class="post_team">Head Admin &amp; Events</p>
                             <p class="post_team">+91 721-725-9085</p>
                                <a href="https://www.facebook.com/profile.php?id=100002685997998&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                     </div>
@@ -185,8 +199,11 @@
                             <p class="post_team">Head Admin &amp; Events</p>
                             <p class="post_team">+91 976-083-5380</p>
                                <a href="https://www.facebook.com/profile.php?id=100003709297779&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                          </div>
@@ -204,7 +221,11 @@
                             <p class="post_team">Head Sponsorship</p>
                             <p class="post_team">+91 95579-17623</p>
                                <a href="https://www.facebook.com/profile.php?id=100007701707643&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
+                       <img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">
                                 </a>
                         </div>
                             </center>
@@ -221,8 +242,11 @@
                             <p class="post_team">Head Sponsorship</p>
                             <p class="post_team">+91 82877-09351</p>
                                <a href="https://www.facebook.com/profile.php?id=100000397565590&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                          </div>
@@ -238,8 +262,11 @@
                             <p class="post_team">Head Sponsorship</p>
                             <p class="post_team">+91 83084-56212</p>
                                <a href="https://www.facebook.com/profile.php?id=100000827880265&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                        </div>
@@ -256,8 +283,11 @@
                             <p class="post_team">Organising Secretary</p>
                             <p class="post_team">+91 80064-78565</p>
                                <a href="" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                         </div></a>
@@ -272,8 +302,11 @@
                             <p class="post_team">Treasurer</p>
                             <p class="post_team">+91 87551-82329</p>
                                <a href="https://www.facebook.com/profile.php?id=100001520096556&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                         </div>
@@ -289,8 +322,11 @@
                             <p class="post_team">Co-Treasurer</p>
                             <p class="post_team">+91 94134-08986</p>
                                <a href="https://www.facebook.com/profile.php?id=100012302794165&ref=br_rs" target="_blank"> 
-                        <img src="img/fb_logo_white.png" style="width:1.3em;">
-                                </a>
+<img src="img/fb_logo_new.png" style="    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 0px;">                                </a>
                         </div>
                             </center>
                         </div>
